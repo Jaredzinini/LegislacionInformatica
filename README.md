@@ -5,7 +5,7 @@ Ing. en informática**
 **Asignatura**  
 Legislación informática  
 **Maestra**  
-Daniela Adriana Sánchez Vizcarra
+Daniela Adriana Sánchez Vizcarra  
 **Semestre**  
 Febrero- Junio 2022  
 **Integrantes**  

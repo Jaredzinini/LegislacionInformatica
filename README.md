@@ -19,6 +19,7 @@ Ibarra Serrano Gustavo Manuel #C17210577
 [Práctica de la unidad#3](https://github.com/Jaredzinini/LegislacionInformatica/blob/main/Unidad%233/actividad%201%20unidad3.pdf)  
 [Práctica de la unidad#4](https://github.com/Jaredzinini/LegislacionInformatica/blob/main/Unidad%234/practica%201%20u4.pdf)  
 [Práctica de la unidad#5](https://github.com/Jaredzinini/LegislacionInformatica/blob/main/Unidad%20%235/actividad%201%2C%20unidad%205.pdf)  
+[Práctica de la unidad#6](https://github.com/Jaredzinini/LegislacionInformatica/blob/main/Unidad%20%236/actividad%201%2C%20unidad%206.pdf)  
 
 
 
